@@ -1,0 +1,27 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Initial Threat Model",
+    "owner": "imjbassi",
+    "description": "This is a basic web message board application that allows users to log in, view a message of the day, and leave comments. Authentication is handled by an open-source component, and all user data is stored in a backend database.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Initial Threat Model Diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "A data flow diagram for a message board web application including authentication, message retrieval, and comment submission."
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "test",
+    "threatTop": 0
+  }
+}
